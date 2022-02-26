@@ -1,4 +1,7 @@
 function ladade()
 {
-  s
+  if(document.getelementbyid("pass").value == "slavkovohtml")
+  {
+    alert("\"Hello\"");
+  }
 }

@@ -1,6 +1,6 @@
 function ladade()
 {
-  if(document.getElementById("pass").value === "+×÷=")
+  if(document.getElementById("pass").value === "maxjejednorozec")
   {
     document.write("<a href=\"wld98hmj29cnxqrziephpersonal.html\">Click here</a>");
 

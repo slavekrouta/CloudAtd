@@ -11,6 +11,6 @@ function ladade()
   }
   else if(document.getElementById("pass").value === "babickaroku")
   {
-    Document.write("<a href=\"br.pptx\" download=\"babiška roku.pptx\">DOWNLOAD<a/>");
+    Document.write("<a href=\"babiška roku.pptx\" download=\"babiška roku.pptx\">DOWNLOAD<a/>");
   }
 }

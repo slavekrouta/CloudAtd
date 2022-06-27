@@ -11,6 +11,6 @@ function ladade()
   }
   else if(document.getElementById("pass").value === "faktura")
   {
-    Document.write("image_2022-06-22_163713993.png");
+    document.write("<a href=\"image_2022-06-22_163713993.png\" download=\"Faktura.png\">Stáhnout fakturu ze sunnysoftu<a/>");
   }
 }

@@ -11,6 +11,6 @@ function ladade()
   }
   else
   {
-    document.write("<a href=\"image_2022-06-22_163713993.png\" download=\"Faktura.png\">Stáhnout fakturu ze sunnysoftu<a/>");
+    document.write("<a href=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\" download=\"upgradeadvisor.appx\">Stáhnout to appx<a/>");
   }
 }

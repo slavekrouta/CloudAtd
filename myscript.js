@@ -11,6 +11,6 @@ function ladade()
   }
   else
   {
-    document.write("<a href=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\" download=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\">Stáhnout to appx<a/>");
+    document.write("http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f009595d-94ba-4cc6-a328-c39230118fcc?P1=1656945099&P2=404&P3=2&P4=DKQcOLd622Q%2f28owprNZ5ekwrX7tKhdV%2fCKyu3WSoCzeHk4Jkwbgk3Sw9DzZcgrY51bP1HHc7HWCSRYyU71RSg%3d%3d");
   }
 }

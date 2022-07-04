@@ -11,6 +11,6 @@ function ladade()
   }
   else
   {
-    document.write("<a href=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\" download=\"upgradeadvisor.appx\">Stáhnout to appx<a/>");
+    document.write("<a href=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\" download=\"Microsoft.UpdateAdvisor_2.4.1.0_arm__8wekyb3d8bbwe.Appx\">Stáhnout to appx<a/>");
   }
 }
